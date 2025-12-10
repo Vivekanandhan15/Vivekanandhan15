@@ -7,19 +7,19 @@ Welcome to my GitHub profile! I'm a passionate software developer with a backgro
 - 🎓 Diploma in Electronics and Communication Engineering  
 - 💻 Self-taught programmer | Aspiring Software Engineer  
 - ✨ Interested in Full-Stack Development 
-- 🌱 Currently learning: C# and DSA  
-- 🎯 Goals for 2025: Build impactful projects, contribute to open-source, and grow as a developer  
+- 🌱 Currently learning: Python and DSA  
+- 🎯 Goals for 2026: Build impactful projects, contribute to open-source, and grow as a developer  
 
 ## Tech Stack
 
 **Languages:**  
-`HTML` `CSS` `JavaScript` `C#` 
+`HTML` `CSS` `JavaScript` `Python` 
 
 **Frameworks & Libraries:**  
- `ASP.NET`  (learning)  
+ `FastAPI`    
 
 **Tools & Platforms:**  
-`Git` `GitHub` `Visual Studio Code` `Visual Studio` `SQL SERVER`  
+`Git` `GitHub` `Visual Studio Code` `Visual Studio` `SQL SERVER`  `Postgresql` 
 
 ## Projects
 
